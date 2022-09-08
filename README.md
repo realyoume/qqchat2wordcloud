@@ -28,3 +28,10 @@
 + word_count.txt    关键词出现次数
 + people_count.txt    发言次数
 + dir_name.png    关键词词云图
+
+## 示意图
+
+![vqiuGR.png](https://s1.ax1x.com/2022/09/08/vqiuGR.png)
+
+已进行脱敏处理
+
